@@ -62,3 +62,7 @@ The proposed Two-Factor CIR model significantly improves reconstruction accuracy
 * Multiple latent factors are necessary to capture yield curve dynamics effectively.
 * Kalman Filtering provides robust state estimation for latent interest-rate factors.
 * The Two-Factor CIR model substantially outperforms the baseline Single-Factor CIR model in out-of-sample yield curve reconstruction.
+
+Name : Daksh Shah
+Enrolment no. : 24115132
+(B.Tech EE)
